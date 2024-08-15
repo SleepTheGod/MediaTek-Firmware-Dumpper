@@ -2,6 +2,21 @@
 # Firmware Detection Identifies and extracts firmware files for any MediaTek chipset.
 # Cross-Platform Compatibility Functions correctly in both Unix-like systems and Windows (MinGW).
 
+```
+██╗     ██╗███████╗ █████╗ ██████╗ ██████╗   
+██║     ██║╚══███╔╝██╔══██╗██╔══██╗██╔══██╗  
+██║     ██║  ███╔╝ ███████║██████╔╝██║  ██║  
+██║     ██║ ███╔╝  ██╔══██║██╔══██╗██║  ██║  
+███████╗██║███████╗██║  ██║██║  ██║██████╔╝  
+╚══════╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝   
+                                             
+███████╗ ██████╗ ██╗   ██╗ █████╗ ██████╗ ██╗
+██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔══██╗██║
+███████╗██║   ██║██║   ██║███████║██║  ██║██║
+╚════██║██║▄▄ ██║██║   ██║██╔══██║██║  ██║╚═╝
+███████║╚██████╔╝╚██████╔╝██║  ██║██████╔╝██╗
+╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝
+```
 Overview
 
 The MediaTek Firmware Dumper is a versatile script designed to extract firmware from MediaTek chipsets. It is compatible with Unix-like systems (Linux, macOS) and Windows (MinGW). This tool is essential for security researchers, developers, and system administrators who need to handle MediaTek firmware.
